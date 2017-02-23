@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/meheader2.jpg) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -161,7 +161,7 @@ a:after {
 	background-position: center center;
 	min-height: 500px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -175,12 +175,12 @@ a:after {
 
 #headerwrap h1 {
 	font-size: 80px;
-	color: white;
+	color: #787bd3;
 }
 
 #headerwrap h3 {
 	font-size: 20px;
-	color: white;
+	color: #787bd3;
 }
 
 /* Intnro Wrap */
@@ -190,7 +190,7 @@ a:after {
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
-} 
+}
 
 #intro h5, p {
 	color: white;
