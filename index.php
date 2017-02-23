@@ -1,4 +1,4 @@
 <?php
-  header( 'Location: kelvin/theme/index.html' );
+  header( 'Location: instant/Theme/index.html' );
   die();
 ?>
